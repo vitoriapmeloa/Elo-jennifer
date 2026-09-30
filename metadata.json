@@ -1,0 +1,7 @@
+{
+  "name": "Elô - Jennifer",
+  "description": "Interface de conversação inspirada no ecossistema Apple com estética minimalista e refinada.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
